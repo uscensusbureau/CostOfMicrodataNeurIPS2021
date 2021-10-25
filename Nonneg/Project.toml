@@ -1,0 +1,16 @@
+name = "Nonneg"
+uuid = "204239af-6b9b-4633-b371-567270d398aa"
+authors = [""]
+version = "0.1.0"
+
+[deps]
+COSMO = "1e616198-aa4e-51ec-90a2-23f7fbd31d8d"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Gurobi = "2e9cd046-0924-5485-92f1-d5272153d98b"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+OSQP = "ab2f91bb-94b4-55e3-9ba0-7f65df51de79"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
